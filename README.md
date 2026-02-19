@@ -1,4 +1,5 @@
 # digital_pet_app
+![App Screenshot](assets/github_commits.png)
 
 A new Flutter project.
 
